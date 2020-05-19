@@ -1,12 +1,13 @@
 # _To Do List_
 
-#### _Epicodus Project May 12, 2020_
+#### _Epicodus Project May 18, 2020_
 
 #### By _**Jessica Hvozdovich, DJ Zevenbergen, and Julia Seidman**_
+#### Version 2 Web Interface Updates by _**Jessica Hvozdovich**_
 
 ## Description
 
-_A project to introduce the C# language and the .NET Core framework. The console application will take user input to display goals and descriptions. The lesson is meant to practice creating automated testing methods using MSTest and behavior driven development._
+_A project to introduce the C# language and the .NET Core framework. The initial console application that took user input to display goals and descriptions is transferred to a front-end application using an MVC Web Interface._
 
 ## Setup/Installation Requirements
 
@@ -14,7 +15,7 @@ _A project to introduce the C# language and the .NET Core framework. The console
 2. Open the downloaded directory in a text editor of your choice.
   (VSCode, Atom, etc.)
 3. To install the REPL dotnet script, run dotnet tool install -g dotnet-script in your terminal.
-4. Run the program with the command dotnet build.
+4. Run the program with the commands dotnet restore, dotnet build, and dotnet run.
 
 ## Known Bugs
 
